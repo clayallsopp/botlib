@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = BotLib::VERSION
   spec.authors       = ["Clay Allsopp"]
   spec.email         = ["clay.allsopp@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "The shared engine for AppleBot and PlayBot"
   spec.homepage      = ""
   spec.license       = "MIT"
 
