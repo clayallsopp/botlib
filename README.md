@@ -1,4 +1,4 @@
-# Botlib
+# BotLib
 
 TODO: Write a gem description
 
